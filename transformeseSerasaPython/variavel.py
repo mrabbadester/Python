@@ -1,13 +1,7 @@
-#/ treinamento /
- 
-s = "banana";
-ss = "banana";
+#EXEMPLOS DE VARIÁVEIS COM NOMECLATURADAS ERRADAS
 
-print(s, id(s));
+77nome = "Diego";
 
-print(ss);
+mai$ = "mais";
 
-s.replace("b", "z");
-
-print(s);
-
+class = "Python";
