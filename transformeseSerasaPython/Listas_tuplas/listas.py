@@ -39,8 +39,34 @@ sublista = numeros[1:4];
 print(sublista);
 print();
 
+
 numeros = ["a","b","c","d"];
 sublista = numeros[1:4];
 print(sublista);
 print();
+
+
+letras = ["a","b","c","d"];
+sublista = letras[1:4];
+print(sublista);
+print();
+
+
+frutas = ["maça", "banana", "laranja"];
+frutas.append("morango");
+print(frutas);
+print();
+
+frutas.insert(1,  "abacaxi");
+print(frutas);
+print();
+
+frutaRemovida = frutas.remove("banana");
+frutaRemovida = frutas.pop(2);
+print(frutas);
+print(frutaRemovida);
+print();
+
+frutas.sort();
+print("Embaralhado: ", frutas);
 
