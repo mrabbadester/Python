@@ -1,3 +1,4 @@
+#21 de junho de 2023 atividade
 # 1 
 nome = "Marlus";
 idade = "40";
