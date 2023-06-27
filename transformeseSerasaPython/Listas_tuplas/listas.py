@@ -70,3 +70,6 @@ print();
 frutas.sort();
 print("Embaralhado: ", frutas);
 
+from random import shuuffle
+shuuffle(frutas);
+print(frutas);
