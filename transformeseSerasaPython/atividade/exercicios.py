@@ -46,7 +46,11 @@ numero2 = 20;
 soma = numero1 + numero2;
 print("Soma: ", soma , "idade.");
 
+<<<<<<< HEAD
 #8 Extra
+=======
+#8 Extra 
+>>>>>>> 1770d2418aa352ea1240f707bb87aaf00f2d5fd0
 numero1 = int(input("Digite o primeiro no numero: "));
 numero2 = int(input("Digite o segundo no numero: "));
 multiplicacao = numero1 * numero2;
