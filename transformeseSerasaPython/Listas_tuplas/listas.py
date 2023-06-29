@@ -7,7 +7,6 @@ print(listaMista);
 print();
 
 frutas = ["maça", "banana", "morango"];
-
 print(frutas[0]);
 print();
 
