@@ -62,7 +62,6 @@ else:
     
 print();
 
-
 # 6 - Escreva um programa que solicite ao usuário três números inteiros e
 # verifique se pelo menos um deles é positivo.
 numero1 = int(input("digite o primeiro número inteiro: "));
@@ -76,7 +75,6 @@ else:
     
 print();
 
-
 # 7 - Escreva um programa que solicite ao usuário uma letra e
 # verifique se ela é uma vogal (a, e, i, o, u). 
 letra = input("digite uma letra: ");
@@ -87,7 +85,6 @@ else:
     print("não é vogal");
 
 print();
-
 
 # 8 - Escreva um programa que solicite ao usuário um número inteiro e
 # verifique se ele é positivo, negativo ou zero.
@@ -101,7 +98,6 @@ else:
     print("número é zero.");
 
 print();
-
 
 # 9 - Escreva um programa que solicite ao usuário três números e 
 # verifique se eles estão em ordem crescente.
