@@ -65,7 +65,48 @@ while palavra != 'sair' :
   palavra = input("Digite uma plavra ('sair' para encerrar)");
   palavra = palavra.lower();
 
+#Exemplo: implementação de meu opções.
+opcao = 0;
+
+while opcao != 4:
+  print("Menu: ");
+  print("1. opção 1");
+  print("2. opção 2");
+  print("3. opção 3");
+  print("4. Sair");
+  
+  opcao = int(input("Informa opção escolhida: "));
+  if opcao == 1:
+    print("Opção 1 selecionada!");
+  elif opcao == 2:
+    print("Opção 2 selecionada!");
+  elif opcao == 3:
+    print("Opção 3 selecionada!");
+  elif opcao == 4:
+   print("Saindo...");
+  break;
+else:
+  print("Opção inválida, tente novamente");
+  
+  
+  #emulando do while 
+  
+  palavraSecreta = "pyhton";
+  conuter = 0;
+  
+  while True:
+    palavra = input("Informe a palavra secreta").lower();
+    contador +- 1;
+    
+    if palavra == palavraSecreta:
+      print("Você acertou a palavra!");
+      break;
+    if(palavra != palavraSecreta and contador > 7):
+      print("Voce atingiu o limite de tentativas!");
+
 # 7 - utlilizando um loop "white", inverta uma string digitada pelo usuario
+
+
 
 
 # 8 - utlilizando um loop "for", # verifique se uma palavra digitada pelo usuario 
