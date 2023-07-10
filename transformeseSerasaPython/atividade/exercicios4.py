@@ -31,8 +31,9 @@ print("A soma dos números de 1 a 100 é:", soma);
 numero = 1;
 
 while numero <= 20:
-    print(numero);
-    numero += 2
+    if numero % 2 == 0:
+        print(numero);
+    numero += 1
 
 # 6 - Utilizando um loop "for", imprima os números pares de 1 a 20.
 for numero in range(2, 21, 2):
