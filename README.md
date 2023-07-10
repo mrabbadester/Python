@@ -35,7 +35,7 @@ Por fim, abordaremos a importância dos testes e debugs no desenvolvimento de so
 Exercício 1 (Tipos de dados: String e números): [Exercicío 1](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios.py)  
 Exercício 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios2.py)  
 Exercício 3 (Estruturas condicionais): [Exercicío 3](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios3.py)  
-Exercício 4 (Estruturas de repetição): [Exercicío 4](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/Estruturas_de_repeti%C3%A7%C3%A3o.py)  
+Exercício 4 (Estruturas de repetição): [Exercicío 4](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios4.py)  
 
 ## Recursos adicionais
 Além dos materiais contidos neste repositório, aqui estão alguns recursos externos úteis para aprender Python:
