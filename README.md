@@ -37,11 +37,6 @@ Exercício 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](http
 Exercício 3 (Estruturas condicionais): [Exercicío 3](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios3.py)  
 Exercício 4 (Estruturas de repetição): [Exercicío 4](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/Estruturas_de_repeti%C3%A7%C3%A3o.py)  
 
-## Contribuição
-Se você quiser contribuir para este repositório, fique à vontade para enviar pull requests com melhorias, correções de bugs ou novos materiais de estudo relacionados à ementa. Sua contribuição é muito bem-vinda!
-
-Antes de enviar um pull request, certifique-se de revisar as diretrizes de contribuição no arquivo CONTRIBUTING.md para garantir uma colaboração suave e eficiente.
-
 ## Recursos adicionais
 Além dos materiais contidos neste repositório, aqui estão alguns recursos externos úteis para aprender Python:
 
