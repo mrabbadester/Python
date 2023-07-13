@@ -36,7 +36,7 @@ Exercício 1 (Tipos de dados: String e números): [Exercicío 1](https://github.
 Exercício 2 (Tipos de dados: Lusta, tuplas e dicionários): [Exercicío 2](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios2.py)  
 Exercício 3 (Estruturas condicionais): [Exercicío 3](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios3.py)  
 Exercício 4 (Estruturas de repetição): [Exercicío 4](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/exercicios4.py)  
-Exercício 4 (Jogos): [Jogos adivinhacao](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/jogos/jogos_adivinhacao.py)  
+Exercício 5 (Jogos): [Jogos adivinhacao](https://github.com/mrabbadester/Python/blob/main/transformeseSerasaPython/atividade/jogos/jogos_adivinhacao.py)  
 
 ## Recursos adicionais
 Além dos materiais contidos neste repositório, aqui estão alguns recursos externos úteis para aprender Python:
