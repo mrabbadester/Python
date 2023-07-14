@@ -18,14 +18,14 @@ class Conta:
     def exibir_informacoes(self):
         print(f"Conta: {self.numero}");
         print(f"Titular: {self.titular}");
-        print(f"Saldo: {self.saldo:,.2f}");
+        valorEmReal = f"R$ {self.saldo:,.2f}"
+        valorEmReal = valorEmReal.replace('.', '.').replace('_', '.');
+        print(f"Saldo: {valorEmReal}");
     
 #Criação de uma conta e realização de operações
 
-conta = Conta(123, "Marlus");
-
-conta.depositar(1000);
-conta.sacar(500);
-conta.exibir_informacoes();
+#conta = Conta(123, "Marlus");
+#conta.depositar(1000);
+#conta.exibir_informacoes();
    
     
