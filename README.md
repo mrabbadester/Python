@@ -1,5 +1,9 @@
 # Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
+<p align="center">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+</p>
+
 Bem-vindo ao repositório de programação em Python! Este repositório foi criado para fornecer um guia abrangente para aprender a linguagem de programação Python. Aqui você encontrará materiais de estudo, exemplos de código e recursos úteis para aprimorar suas habilidades em Python.
 
 ## Ementa
