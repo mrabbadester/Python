@@ -26,6 +26,6 @@ class Conta:
     
 #Criação de uma conta e realização de operações
 
-conta = Conta(123, "Marlus");
+conta = Conta(123, "Diego");
 conta.depositar(1000000)
 conta.exibir_informacoes();
