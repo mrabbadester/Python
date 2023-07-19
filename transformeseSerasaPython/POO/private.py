@@ -11,4 +11,4 @@ class MinhaClasse:
 objeto = MinhaClasse();
 objeto.__metodo_private(); #Acesso NÃO permitido
 
-objeto.acessarMetodoPrivate();
+objeto.acessarMetodoPrivate()
