@@ -1,6 +1,8 @@
 # Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
-![Módulo Python](https://camo.githubusercontent.com/aa09afc7e44c13295419c8068c5cba16bf8468cf2b1d9285124333c8c8505eae/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f636f6d6d756e6974795f6c6f676f732f707974686f6e2d6c6f676f2d67656e657269632e737667)
+<p align="center">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+</p>
 
 Bem-vindo ao repositório de programação em Python! Este repositório foi criado para fornecer um guia abrangente para aprender a linguagem de programação Python. Aqui você encontrará materiais de estudo, exemplos de código e recursos úteis para aprimorar suas habilidades em Python.
 
